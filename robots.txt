@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ctonciange.github.io/sitemap.ctonciange.gz
+Sitemap: https://ctonciange.github.io/app/sitemap.ctonciange.gz
+Sitemap: https://ctonciange.github.io/assets/sitemap.ctonciange.gz
+Sitemap: https://ctonciange.github.io/css/sitemap.ctonciange.gz
+Sitemap: https://ctonciange.github.io/data/sitemap.ctonciange.gz
+Sitemap: https://ctonciange.github.io/includes/sitemap.ctonciange.gz
+Sitemap: https://ctonciange.github.io/item/sitemap.ctonciange.gz
+Sitemap: https://ctonciange.github.io/src/sitemap.ctonciange.gz
